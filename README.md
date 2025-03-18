@@ -13,5 +13,5 @@ cd asteroids
 
 ### Run the Game
 ```bash
-python asteroids.py
+python3 asteroids.py
 ```
