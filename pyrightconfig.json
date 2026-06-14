@@ -1,0 +1,6 @@
+{
+  "typeCheckingMode": "standard",
+  "reportMissingTypeStubs": "none",
+  "reportMissingModuleSource": "none",
+  "reportMissingParameterType": "warning"
+}
