@@ -4,7 +4,7 @@ A "faithful" (it is not great, first time with pygame) recreation of the classic
 
 ## Gameplay
 
-Pilot a ship through an asteroid field. Shoot asteroids to split them into smaller fragments — destroy them completely to clear the field. One hit from an asteroid ends the game.
+Pilot a ship through an asteroid field. Shoot asteroids to split them into smaller fragments and straight-up destroy them completely to clear the field. One hit from an asteroid ends the game.
 
 **Controls**
 
