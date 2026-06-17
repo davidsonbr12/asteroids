@@ -1,6 +1,6 @@
 # Asteroids
 
-A faithful recreation of the classic arcade game, built in Python with Pygame.
+A "faithful" (it is not great, first time with pygame) recreation of the classic arcade game, built in Python with Pygame.
 
 ## Gameplay
 
